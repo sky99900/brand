@@ -116,7 +116,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('/images/back.jpg');
+    background-image: url('back.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
